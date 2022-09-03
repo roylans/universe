@@ -1,2 +1,2 @@
-# Celestial Bodies Database Freecodecamp Certification
+# Celestial Bodies Database Freecodecamp certification.
 
